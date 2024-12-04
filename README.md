@@ -1,3 +1,4 @@
+![Excel Banner](ExcelBanner.webp)  
 # **Excel Projects Repository**  
 
 This repository contains a collection of projects demonstrating the use of Excel for data analysis, visualization, automation, and more. Each project highlights different Excel functionalities such as formulas, pivot tables, VBA macros, data cleaning, and charting.  
