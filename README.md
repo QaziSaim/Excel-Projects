@@ -1,7 +1,3 @@
-Here's a **README** template for a repository containing multiple Excel-related projects:  
-
----
-
 # **Excel Projects Repository**  
 
 This repository contains a collection of projects demonstrating the use of Excel for data analysis, visualization, automation, and more. Each project highlights different Excel functionalities such as formulas, pivot tables, VBA macros, data cleaning, and charting.  
@@ -81,5 +77,3 @@ This repository is licensed under the [MIT License](LICENSE).
 Feel free to use these projects as learning resources or templates for your own work!  
 
 --- 
-
-This template provides flexibility for hosting multiple projects while maintaining clear organization. Let me know if you need adjustments!
